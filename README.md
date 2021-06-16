@@ -5,12 +5,12 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently final year undergrad at IIT Bhubaneswar.
-- 🌱 I’m currently learning graphQL, React Native
-- 👯 I’m looking to collaborate on React.js, React Native, Node.js
+- 🔭 I’m currently final year undergrad at <b>IIT Bhubaneswar</b>.
+- 🌱 I’m currently learning <b>graphQL</b>,<b>React Native</b>
+- 👯 I’m looking to collaborate on <b>React.js</b>, <b>React Native</b>, <b>Node.js</b>
+- 📫 You can reach me at: <a href="mailto:bds15@iitbbs.ac.in">bds15@iitbbs.ac.in</a>
 <!-- - 🤔 I’m looking for help with ...
-- 💬 Ask me about ... -->
-- 📫 You can reach me at: bds15@iitbbs.ac.in
-<!-- - 😄 Pronouns: ...
+- 💬 Ask me about ...
+- 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
